@@ -1,0 +1,13 @@
+@article{Llera_2012,
+    author = "Alberto Llera and Vicen\c{c} G\'omez and Hilbert~J. Kappen",
+    title = "Adaptive classification on Brain Computer Interfaces using reinforcement signals",
+    journal = "Neural Computation",
+    volume = "4",
+    number = "11",
+    pages = "2900--2923",
+    year = "2012",
+    month = "October",
+    doi = "10.1162/NECO_a_00348"
+}
+
+

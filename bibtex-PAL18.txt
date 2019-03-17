@@ -1,0 +1,9 @@
+@inproceedings{junyentPAL18,
+    author    = {Miquel Junyent and Anders Jonsson and Vicen{\c{c}} G{\'{o}}mez},
+    title     = {Improving width-based planning with compact policies},
+    booktitle = {ICML / IJCAI / AAMAS Workshop on Planning and Learning (PAL)},
+    year      = {2018},
+    url       = {http://arxiv.org/abs/1806.05898},
+    archivePrefix = {arXiv},
+    eprint    = {1806.05898},
+}

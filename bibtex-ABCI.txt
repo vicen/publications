@@ -1,0 +1,13 @@
+@INPROCEEDINGS{5349481,
+    author={Llera Arenas, Alberto and G\'omez, Vicen\c{c} and Kappen, Hilbert~J.},
+    title={Sparse matrix factorization for brain computer interfaces},
+    booktitle={Affective Computing and Intelligent Interaction and Workshops, 2009. ACII 2009. 3rd International Conference on}, 
+    year={2009},
+    month={sept.},
+    volume={},
+    number={},
+    pages={1--6},
+    keywords={adaptive brain computer interfaces;biological signal reconstruction;interaction error potentials;sparse dimensionality reduction;sparse matrix factorization;brain-computer interfaces;matrix decomposition;signal reconstruction;sparse matrices;},
+    doi={10.1109/ACII.2009.5349481},
+    ISSN={}
+}

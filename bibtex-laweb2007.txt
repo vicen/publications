@@ -1,0 +1,8 @@
+@inproceedings{kaltenbrunner_LAWEB2007,
+author =	 "Andreas Kaltenbrunner and Vicen\c{c} G\'omez and Vicente L\'opez",
+  title =	 "Description and Prediction of Slashdot Activity",
+  year =	 "2007",
+  booktitle =	 "Proceedings of the 5th {Latin American Web Congress (LA-WEB 2007)}",
+  publisher =	 {IEEE Computer Society},
+  address =	 "Santiago de Chile"
+}

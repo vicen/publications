@@ -1,0 +1,12 @@
+@article{azar12a,
+    author = {Mohammad Gheshlaghi Azar and Vicen\c{c} G\'{o}mez and Hilbert J. Kappen}, 
+    title = {Dynamic Policy Programming},
+    journal = {Journal of Machine Learning Research},
+    year = {2012},
+    number = {Nov},
+    volume = {13},
+    publisher = {MIT Press},
+    address = {Cambridge, MA, USA},
+    pages = {3207--3245}
+} 
+

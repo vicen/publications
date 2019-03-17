@@ -1,0 +1,13 @@
+@Article{Kappen2014,
+    author="Kappen, Hilbert J. and G{\'o}mez, Vicen{\c{c}}",
+    title="The Variational Garrote",
+    journal="Machine Learning",
+    year="2014",
+    volume="96",
+    number="3",
+    pages="269--294",
+    issn="1573-0565",
+    doi="10.1007/s10994-013-5427-7",
+    url="http://dx.doi.org/10.1007/s10994-013-5427-7"
+}
+

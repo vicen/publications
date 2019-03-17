@@ -1,0 +1,19 @@
+@Article{AragonJISA2017,
+author="Arag{\'o}n, Pablo
+and G{\'o}mez, Vicen{\c{c}}
+and Garc{\'i}a, David
+and Kaltenbrunner, Andreas",
+title="Generative models of online discussion threads: state of the art and research challenges",
+journal="Journal of Internet Services and Applications",
+year="2017",
+month="Oct",
+day="05",
+volume="8",
+number="1",
+pages="15",
+abstract="Online discussion in form of written comments is a core component of many social media platforms. It has attracted increasing attention from academia, mainly because theories from social sciences can be explored at an unprecedented scale. This interest has led to the development of statistical models which are able to characterize the dynamics of threaded online conversations.",
+issn="1869-0238",
+doi="10.1186/s13174-017-0066-z",
+url="https://doi.org/10.1186/s13174-017-0066-z"
+}
+

@@ -1,0 +1,13 @@
+@article {POI3:POI3158,
+    author = {Arag\'on, Pablo and G\'omez, Vicen\c{c} and Kaltenbrunner, Andreas},
+    title = {Detecting Platform Effects in Online Discussions},
+    journal = {Policy \& Internet},
+    volume = {9},
+    number = {4},
+    issn = {1944-2866},
+    url = {http://dx.doi.org/10.1002/poi3.158},
+    doi = {10.1002/poi3.158},
+    pages = {420--443},
+    year = {2017},
+}
+

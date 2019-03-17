@@ -1,0 +1,9 @@
+@inproceedings{neuDRL17,
+    author    = {Gergely Neu and Vicen{\c{c}} G{\'{o}}mez and Anders Jonsson},
+    title     = {A unified view of entropy-regularized Markov decision processes},
+    booktitle = {Deep Reinforcement Learning Symposium, NIPS},
+    year      = {2017},
+    url       = {http://arxiv.org/abs/1705.07798},
+    archivePrefix = {arXiv},
+    eprint    = {1705.07798},
+}

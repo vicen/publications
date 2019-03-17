@@ -1,0 +1,18 @@
+@article{Llera_Kappen_2011,
+    title = "On the use of interaction error potentials for adaptive brain computer interfaces",
+    journal = "Neural Networks",
+    volume = "24",
+    number = "10",
+    pages = "1120 - 1127",
+    year = "2011",
+    note = "",
+    issn = "0893-6080",
+    doi = "10.1016/j.neunet.2011.05.006",
+    url = "http://www.sciencedirect.com/science/article/pii/S0893608011001481",
+    author = "Alberto Llera and Marcel A.~J.~van Gerven and Vicen\c{c} G\'omez and Olle Jensen and Hilbert J. Kappen",
+    keywords = "Brain computer interfaces",
+    keywords = "Error potential",
+    keywords = "Adaptive classification"
+}
+
+

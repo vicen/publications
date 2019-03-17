@@ -1,0 +1,9 @@
+@inproceedings{gomez2006,
+    AUTHOR    = "Vicen\c{c} G\'omez and Andreas Kaltenbrunner and Vicente L\'opez",
+    YEAR      = "2006",
+    MONTH     = "July",
+    TITLE     = "Event Modeling of Message Interchange in Stochastic Neural Ensembles",
+    BOOKTITLE = "IJCNN'06 Proceedings",
+    PUBLISHER = "IEEE World Congress of Computational Intelligence, Vancouver, BC, Canada",
+    PAGES     = "81-88"
+}

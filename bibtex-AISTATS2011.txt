@@ -1,0 +1,11 @@
+@article{gheslaghi11,
+      author    = {Mohammad Gheshlaghi Azar and Vicen\c{c} G{\'o}mez and Hilbert J Kappen},
+      title     = {Dynamic Policy Programming with Function Approximation},
+      journal   = {Journal of Machine Learning Research - Proceedings Track},
+      volume    = {15},
+      year      = {2011},
+      pages     = {119-127},
+      ee        = {http://www.jmlr.org/proceedings/papers/v15/azar11a/azar11a.pdf},
+      bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+

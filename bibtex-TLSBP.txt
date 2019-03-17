@@ -1,0 +1,11 @@
+@article{gomez07,
+ author = {Vicen\c{c} G\'omez and Joris M. Mooij and Hilbert J. Kappen},
+ title = {Truncating the loop series expansion for belief propagation},
+ journal = {Journal of Machine Learning Research},
+ volume = {8},
+ year = {2007},
+ number = {Sept},
+ publisher = {MIT Press},
+ address = {Cambridge, MA, USA},
+ pages = {1987--2016}
+}

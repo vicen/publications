@@ -1,0 +1,13 @@
+@article{Llera_2014,
+    author = "Alberto Llera and Vicen\c{c} G\'omez and Hilbert J. Kappen",
+    title = "Adaptive Multiclass Classification for Brain Computer Interfaces",
+    journal = "Neural Computation",
+    volume = "26",
+    number = "6",
+    pages = "1108--1127",
+    year = "2014",
+    month = "June",
+    doi = "10.1162/NECO_a_00592"
+}
+
+

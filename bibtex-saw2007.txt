@@ -1,0 +1,11 @@
+@article{kaltenbrunner_saw2007,
+      AUTHOR =   "Andreas Kaltenbrunner and Vicen\c{c} G\'omez and Ayman Moghnieh and Rodrigo Meza and Josep Blat and Vicente L\'opez",
+      YEAR =   2008,
+      TITLE =    "Homogeneous temporal activity patterns in a large online communication space",
+      JOURNAL =    "{International Journal on WWW/INTERNET}",
+      VOLUME =   6,
+      NUMBER =     1,
+      PAGES =    {61--76},
+      note = "10th International Conference on Business Information Systems. Workshop on Social Aspects of the Web"
+}
+

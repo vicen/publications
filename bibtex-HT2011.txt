@@ -1,0 +1,19 @@
+@inproceedings{Gomez:2011:MSE:1995966.1995992,
+    author = {G\'{o}mez, Vicen\c{c} and Kappen, Hilbert J. and Kaltenbrunner, Andreas},
+    title = {Modeling the structure and evolution of discussion cascades},
+    booktitle = {Proceedings of the 22nd ACM conference on Hypertext and hypermedia},
+    series = {HT '11},
+    year = {2011},        
+    isbn = {978-1-4503-0256-2},
+    location = {Eindhoven, The Netherlands},
+    pages = {181--190},
+    numpages = {10},
+    url = {http://doi.acm.org/10.1145/1995966.1995992},
+    doi = {10.1145/1995966.1995992},
+    acmid = {1995992},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {conversations, discussion cascades, maximum likelihood, preferential attachment, slashdot, threads, wikipedia},
+} 
+
+
