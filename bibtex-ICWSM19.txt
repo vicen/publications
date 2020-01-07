@@ -3,6 +3,7 @@
     title = {Sharing emotions at scale: The Vent dataset},
     booktitle = {13th International AAAI Conference on Web and Social Media},
     publisher =  {The AAAI Press},
+    pages = {611-619},
     year = {2019},
 }
 
