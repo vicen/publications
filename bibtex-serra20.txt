@@ -1,0 +1,9 @@
+@inproceedings{serra2020,
+	title={Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models},
+	author={Serr{\`a}, Joan and {\'A}lvarez, David and G{\'o}mez, Vicen{\c{c}} and Slizovskaia, Olga and N{\'u}{\~n}ez, Jos{\'e} F and Luque, Jordi},
+	booktitle = {8th International Conference on Learning Representations, {ICLR}},
+	publisher = {OpenReview.net},
+	url={https://openreview.net/forum?id=SyxIWpVYvr},
+	year={2020},
+}
+
