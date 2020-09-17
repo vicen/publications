@@ -1,7 +1,16 @@
-@inproceedings{tabibian_uai2020,
-  author    = {Behzad Tabibian and Vicen\c{c} G\'{o}mez and Abir De and Bernhard Sch\"olkopf and Manuel Gomez Rodriguez},
-  title     = {On the design of consequential ranking algorithms},
-  booktitle = {Proceedings of the Thirty-Sixth Conference on Uncertainty in Artificial Intelligence, {UAI}},
-  publisher = {{AUAI} Press},
-  year      = {2020},
+@inproceedings{pmlr-v124-tabibian20a,
+title = {On the design of consequential ranking algorithms},
+author = {Tabibian, Behzad and G\'{o}mez, Vicen\c{c} and De, Abir and Sch\"{o}lkopf, Bernhard and Gomez Rodriguez, Manuel},
+pages = {171--180},
+year = {2020},
+editor = {Jonas Peters and David Sontag},
+volume = {124},
+series = {Proceedings of Machine Learning Research},
+address = {Virtual},
+month = {03--06 Aug},
+publisher = {PMLR},
+pdf = {http://proceedings.mlr.press/v124/tabibian20a/tabibian20a.pdf},
+url = {http://proceedings.mlr.press/v124/tabibian20a.html},
+abstract = {Ranking models are typically designed to optimize some measure of immediate utility to the users. As a result, they have been unable to anticipate an increasing number of undesirable long-term consequences of their proposed rankings, from fueling the spread of misinformation and increasing polarization to degrading social discourse. Can we design ranking models that anticipate the consequences of their proposed rankings and are able to avoid the undesirable ones? In this paper, we first introduce a joint representation of rankings and user dynamics using Markov decision processes. Then, we show that this representation greatly simplifies the construction of consequential ranking models that trade off theimmediate utility and the long-term welfare. In particular, we can obtain optimal consequential rankings by applying weighted sampling on the rankings provided by models that maximize measures of immediate utility. However, in practice, such a strategy may be inefficient and impractical, specially in high dimensional scenarios. To overcome this, we introduce an efficient gradient-based algorithm to learn parameterized consequential ranking models that effectively approximate optimal ones. We illustrate our methodology using synthetic and real data gathered from Reddit and show that our consequential rankings may mitigate the spread of misinformation and improve the civility of online discussions.}
 }
+
