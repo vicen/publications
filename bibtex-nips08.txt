@@ -1,7 +1,7 @@
 @incollection{NIPS2008_3394,
     title = {Self-organization using synaptic plasticity},
     author = {Vicen\c{c} G\'{o}mez and Andreas Kaltenbrunner and Vicente L\'{o}pez and Hilbert J. Kappen},
-    booktitle = {Advances in Neural Information Processing Systems 21},
+    booktitle = {Advances in Neural Information Processing Systems 21 (NeurIPS)},
     editor = {D. Koller and D. Schuurmans and Y. Bengio and L. Bottou},
     pages = {513--520},
     year = {2009},
