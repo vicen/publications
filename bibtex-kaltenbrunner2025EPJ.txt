@@ -1,0 +1,12 @@
+@article{kaltenbrunner2025EPJ,
+	author = {Kaltenbrunner, Andreas and Ferrer, Josep and Moreno, David and G{\'o}mez, Vicen{\c c}},
+	doi = {10.1140/epjds/s13688-025-00588-0},
+	isbn = {2193-1127},
+	journal = {EPJ Data Science},
+	number = {1},
+	pages = {74},
+	title = {A simple and explainable model for park-and-ride car park occupancy prediction},
+	url = {https://doi.org/10.1140/epjds/s13688-025-00588-0},
+	volume = {14},
+	year = {2025}
+}
